@@ -51,7 +51,7 @@ Currently exploring how to make the app feel more Twitter branded. Using the col
 
 ## License
 
-    Copyright 2020 Nana Ama Marfo
+    Copyright 2020 Terence Bazzell
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
